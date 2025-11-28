@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/sln items/">
+    <File Path="../.gitattributes" />
+    <File Path="../.github/copilot-instructions.md" />
+    <File Path="../.gitignore" />
+    <File Path="../LICENSE" />
+  </Folder>
+  <Project Path="WebFormsToBlazor.Analysis/WebFormsToBlazor.Analysis.csproj" />
+  <Project Path="WebFormsToBlazor.Conversion/WebFormsToBlazor.Conversion.csproj" />
+  <Project Path="WebFormsToBlazor.McpServer/WebFormsToBlazor.McpServer.csproj" />
+  <Project Path="WebFormsToBlazor.Planning/WebFormsToBlazor.Planning.csproj" />
+</Solution>
